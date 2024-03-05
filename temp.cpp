@@ -1,8 +1,6 @@
-#include<stdio.h>
-using namespace std;
+#include <iostream>
 
-int main(void) {
-  
-  cout << "I am in Task5 my SRN is PES1UG20CS291\n";
-  return 0;
+int main() {
+    std::cout << "I am SRN PES1UG21CS291" << std::endl;
+    return 0;
 }
